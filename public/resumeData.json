@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Adeeb Rahman",
+    "occupation": "JavaScript Developer && Founder of Coderzden",
+    "description": "Aspiring to be a Full Stack Software Developer, Consultant, Instructor and Open Source Contributor. #adman94",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Adeeb, I'm a Full Stack ReactJS Developer. Currently I'm looking for Software Development Opportunities as well as working on starting to pursue a Masters in Applied Computer Science",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "adman00794@gmail.com",
+    "phone": "+1 (510) 401-7568",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94016"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ad33b94/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/adman94/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ad007man/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Adman94",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "California State University, East Bay",
+        "degree": "Bachelors of Science in Computer Science",
+        "graduated": "May 2020",
+        "description": "Graduated with Concentration in Full Stack Web Development"
+      }
+    ],
+    "work": [
+      {
+        "company": "White Cloud Apps Inc.",
+        "title": "Software Engineer Intern",
+        "years": "Jul 2019 - May 2020",
+        "description": "Redesigned an entire website architecture using ReactJS."
+      },
+      {
+        "company": "Quench Poverty Inc.",
+        "title": "Software Engineer",
+        "years": "June 2019 - May 2020",
+        "description": "Designed the company website with frontend UI using reactjs and nextjs libraries along with react-bootstrap components and multiple design libraries."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Adeeb is a dedicated worker that strives on delivering quality work before the deadline. When we did a group project for Software Engineering class, Adeeb stepped up as a leader and showed his project management skills by dividing and balancing the workload, delivering his part on time and pushing others to do the same.",
+        "user": "Peter Chudinov . Junior Specialist at Laboratory of Cell Geometry, University of California, San Francisco"
+      }
+    ]
+  }
+}
