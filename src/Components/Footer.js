@@ -22,7 +22,7 @@ class Footer extends Component {
               <li>
                 <span aria-label="" role="img">😎</span>
                 Modified by Adeeb Rahman
-                <span aria-label="" role="img">😎</span></li>
+                <span aria-label="" role="img"> 😎</span></li>
             </ul>
 
             <ul className="copyright">

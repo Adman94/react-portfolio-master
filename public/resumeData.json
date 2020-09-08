@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Adeeb Rahman",
-    "occupation": "JavaScript Developer && Founder of Coderzden",
+    "occupation": "JavaScript Developer & Founder of Coderzden",
     "description": "Aspiring to be a Full Stack Software Developer, Consultant, Instructor and Open Source Contributor. #adman94",
     "image": "profile-adeeb.jpg",
     "bio": "My name is Adeeb, I'm a Full Stack ReactJS Developer. Currently I'm looking for Software Development Opportunities as well as working on starting to pursue a Masters in Applied Computer Science",
@@ -93,34 +93,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazonclone.png",
+        "url": "https://clone-2660c.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Spotify Clone",
+        "category": "Spotify Clone built with ReactJS",
+        "image": "spotifyclone.png",
+        "url": "https://github.com/Adman94/SpotifyClone"
       },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "image": "fbclone.png",
+        "url": "https://github.com/Adman94/FacebookClone"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with ReactJS",
+        "image": "huluclone.png",
+        "url": "https://clone-82257.web.app/"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://netflix-clone-9bbbb.web.app/"
       }
     ]
   },
