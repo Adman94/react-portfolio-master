@@ -19,7 +19,10 @@ class Footer extends Component {
             </ul>
 
             <ul>
-              <li>😎Modified by Adeeb Rahman 😎</li>
+              <li>
+                <span aria-label="" role="img">😎</span>
+                Modified by Adeeb Rahman
+                <span aria-label="" role="img">😎</span></li>
             </ul>
 
             <ul className="copyright">

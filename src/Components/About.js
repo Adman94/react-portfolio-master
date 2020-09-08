@@ -7,7 +7,7 @@ class About extends Component {
          var name = this.props.data.name;
          var profilepic = "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-1/s480x480/117324266_3471349759564765_2279439121490613191_n.jpg?_nc_cat=105&_nc_sid=7206a8&_nc_ohc=vYAikUJZTjUAX99eMcA&_nc_ht=scontent-sjc3-1.xx&tp=7&oh=4db8ec0e50d8170f2da8654f7df1c062&oe=5F7B6329";
          var bio = this.props.data.bio;
-         var street = this.props.data.address.street;
+         // var street = this.props.data.address.street;
          var city = this.props.data.address.city;
          var state = this.props.data.address.state;
          var zip = this.props.data.address.zip;
