@@ -51,25 +51,31 @@
     ],
     "work": [
       {
+        "company": "Career Bridge",
+        "title": "Software Engineer",
+        "years": "Jul 2020 - Present (Part-time)",
+        "description": "Actively developing the company’s multiple full stack web applications."
+      },
+      {
         "company": "White Cloud Apps Inc.",
-        "title": "Software Engineer Intern",
-        "years": "Jul 2019 - May 2020",
+        "title": "Software Engineer",
+        "years": "Jul 2018 - May 2020",
         "description": "Redesigned an entire website architecture using ReactJS."
       },
       {
         "company": "Quench Poverty Inc.",
         "title": "Software Engineer",
-        "years": "June 2019 - May 2020",
+        "years": "Jun 2018 - May 2020",
         "description": "Designed the company website with frontend UI using reactjs and nextjs libraries along with react-bootstrap components and multiple design libraries."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "JavaScript | ReactJs | NextJS | React-Native | NodeJS",
+        "level": "80%"
       },
       {
-        "name": "CSS",
+        "name": "CSS | CSS3 | SASS",
         "level": "80%"
       },
       {
@@ -81,11 +87,11 @@
         "level": "50%"
       },
       {
-        "name": "HTML5",
+        "name": "HTML | HTML5",
         "level": "85%"
       },
       {
-        "name": "MongoDB",
+        "name": "MongoDB | Postgresql | Mysql | FireBase",
         "level": "70%"
       }
     ]
@@ -129,6 +135,10 @@
       {
         "text": "Adeeb is a dedicated worker that strives on delivering quality work before the deadline. When we did a group project for Software Engineering class, Adeeb stepped up as a leader and showed his project management skills by dividing and balancing the workload, delivering his part on time and pushing others to do the same.",
         "user": "Peter Chudinov . Junior Specialist at Laboratory of Cell Geometry, University of California, San Francisco"
+      },
+      {
+        "text": "I had the privilege of mentoring Adeeb when he first started at Cruise Automation's global markets division. Adeeb's inquisitive nature allowed him to quickly grasp new and abstract concepts he needed to excel within the autonomous vehicle industry. Upon finishing his mentorship with me, I went on and observed how he was able to tackle new problems his role entailed and was quickly noticed as a star player in his team. With his proven ability to think critically in a collaborative environment, I'm confident that Adeeb will be an invaluable part of any team that is lucky enough to work alongside Adeeb.",
+        "user": "Alexander Mak . Fullstack Software Engineer | Freelance Web Developer"
       }
     ]
   }
