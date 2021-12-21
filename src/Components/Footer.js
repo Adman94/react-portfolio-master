@@ -1,36 +1,47 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Footer extends Component {
   render() {
-
     if (this.props.data) {
       var networks = this.props.data.social.map(function (network) {
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      })
+        return (
+          <li key={network.name}>
+            <a href={network.url}>
+              <i className={network.className}></i>
+            </a>
+          </li>
+        );
+      });
     }
 
     return (
       <footer>
-
         <div className="row">
           <div className="twelve columns">
-            <ul className="social-links">
-              {networks}
-            </ul>
+            <ul className="social-links">{networks}</ul>
 
             <ul>
               <li>
-                <span aria-label="" role="img">😎</span>
-                Modified by Adeeb Rahman
-                <span aria-label="" role="img"> 😎</span></li>
+                <span aria-label="" role="img">
+                  😎{" "}
+                </span>
+                Made with &hearts; by Adeeb Rahman
+                <span aria-label="" role="img">
+                  {" "}
+                  😎
+                </span>
+              </li>
             </ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright 2020 All Rights Reserved</li>
+              <li>&copy; Copyright 2021, All Rights Reserved.</li>
             </ul>
-
           </div>
-          <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
+          <div id="go-top">
+            <a className="smoothscroll" title="Back to Top" href="#home">
+              <i className="icon-up-open"></i>
+            </a>
+          </div>
         </div>
       </footer>
     );

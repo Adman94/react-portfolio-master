@@ -51,32 +51,32 @@
     ],
     "work": [
       {
+        "company": "Intel Corporation",
+        "title": "Software Engineer",
+        "years": "Oct 2021 - Present",
+        "description": "Planning, developing, and documenting automated solutions and web applications to multiple internal projects."
+      },
+      {
         "company": "Career Bridge",
         "title": "Software Engineer",
-        "years": "Jul 2020 - Present (Part-time)",
-        "description": "Actively developing the company’s multiple full stack web applications."
+        "years": "May 2020 - Oct 2021",
+        "description": "Developed, optimized and tested the company’s multiple full stack web applications."
       },
       {
         "company": "White Cloud Apps Inc.",
         "title": "Software Engineer",
         "years": "Jul 2018 - May 2020",
         "description": "Redesigned an entire website architecture using ReactJS."
-      },
-      {
-        "company": "Quench Poverty Inc.",
-        "title": "Software Engineer",
-        "years": "Jun 2018 - May 2020",
-        "description": "Designed the company website with frontend UI using reactjs and nextjs libraries along with react-bootstrap components and multiple design libraries."
       }
     ],
     "skills": [
       {
         "name": "JavaScript | ReactJs | NextJS | React-Native | NodeJS",
-        "level": "80%"
+        "level": "95%"
       },
       {
         "name": "CSS | CSS3 | SASS",
-        "level": "80%"
+        "level": "95%"
       },
       {
         "name": "Git",
@@ -84,15 +84,15 @@
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "HTML | HTML5",
-        "level": "85%"
+        "level": "95%"
       },
       {
         "name": "MongoDB | Postgresql | Mysql | FireBase",
-        "level": "70%"
+        "level": "85%"
       }
     ]
   },
