@@ -66,7 +66,14 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
             <h3>
-              I'm a {city} based <span>{occupation}</span>. {description}.
+              I'm a {city} based <span>{occupation}</span>. {description}{" "}
+              <a
+                href="https://virtual-card-app-adman94.vercel.app"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                #adman94
+              </a>
             </h3>
             <hr />
             <ul className="social">{networks}</ul>
