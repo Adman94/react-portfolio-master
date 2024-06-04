@@ -1,16 +1,16 @@
 {
   "main": {
     "name": "Adeeb Rahman",
-    "occupation": "JavaScript Developer & Founder of Coderzden",
-    "description": "Aspiring to be a Full Stack Software Developer, Consultant, Instructor and Open Source Contributor. #adman94",
+    "occupation": "Software Engineer, Tech Entrepreneur & AI Enthusiast",
+    "description": "Aspiring to be a Global Technology Leader, Consultant, Instructor and Open Source Contributor. #adman94",
     "image": "profile-adeeb.jpg",
-    "bio": "My name is Adeeb, I'm a Full Stack ReactJS Developer. Currently I'm looking for Software Development Opportunities as well as working on starting to pursue a Masters in Applied Computer Science",
+    "bio": "My name is Adeeb, I'm a Sr. Software Engineer & Technical Lead. Currently working for Apple  as well as working on starting to pursue a Masters in Applied Computer Science alongside developing my own tech startup.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "adman00794@gmail.com",
     "phone": "+1 (510) 401-7568",
     "address": {
       "street": "123 Fake Street",
-      "city": "San Francisco",
+      "city": "Greater San Francisco Bay Area",
       "state": "CA",
       "zip": "94016"
     },
@@ -29,7 +29,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ad007man/",
+        "url": "https://www.instagram.com/ad33b94/",
         "className": "fa fa-instagram"
       },
       {
@@ -41,25 +41,23 @@
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
-        "school": "California State University, East Bay",
-        "degree": "Bachelors of Science in Computer Science",
-        "graduated": "May 2020",
-        "description": "Graduated with Concentration in Full Stack Web Development"
-      }
-    ],
     "work": [
       {
-        "company": "Intel Corporation",
+        "company": "Apple ",
+        "title": "Sr. Software Engineer",
+        "years": "Jan 2022 - Present",
+        "description": "Technical Lead: Developed, deployed, and maintained full-stack internal software applications for hardware support and R&D tools, collaborated to optimize architecture, achieving over 99% testing reliability, and implemented solutions to prevent human errors, saving significant data collection time annually."
+      },
+      {
+        "company": "Intel",
         "title": "Software Engineer",
-        "years": "Oct 2021 - Present",
+        "years": "Dec 2020 - Dec 2021",
         "description": "Planning, developing, and documenting automated solutions and web applications to multiple internal projects."
       },
       {
-        "company": "Career Bridge",
+        "company": "Career Bridge Inc.",
         "title": "Software Engineer",
-        "years": "May 2020 - Oct 2021",
+        "years": "Jun 2020 - Dec 2020",
         "description": "Developed, optimized and tested the company’s multiple full stack web applications."
       },
       {
@@ -79,11 +77,11 @@
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "90%"
+        "name": "DevOps | CI/CD | AWS | GCP | AZURE | K8S",
+        "level": "80%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Figma | Adobe XD",
         "level": "70%"
       },
       {
@@ -91,8 +89,16 @@
         "level": "95%"
       },
       {
-        "name": "MongoDB | Postgresql | Mysql | FireBase",
+        "name": "MongoDB | PostgreSQL | MySQL | FireBase",
         "level": "85%"
+      }
+    ],
+    "education": [
+      {
+        "school": "California State University, East Bay",
+        "degree": "Bachelors of Science in Computer Science",
+        "graduated": "May 2020",
+        "description": "Graduated with Concentration in Full Stack Web Software Engineering"
       }
     ]
   },
