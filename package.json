@@ -30,5 +30,8 @@
   "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
   "main": "index.js",
   "author": "Adeeb Rahman",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0"
+  }
 }
